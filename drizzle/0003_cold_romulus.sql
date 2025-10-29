@@ -1,0 +1,1 @@
+ALTER TABLE `articles` ADD `region` varchar(50) DEFAULT 'vietnam' NOT NULL;

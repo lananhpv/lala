@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761379839740,
+      "tag": "0000_graceful_hammerhead",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1761379868020,
+      "tag": "0001_luxuriant_energizer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1761441737104,
+      "tag": "0002_chemical_kronos",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1761442149376,
+      "tag": "0003_cold_romulus",
+      "breakpoints": true
+    }
+  ]
+}
